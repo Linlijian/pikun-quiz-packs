@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "packId": "law-basics",
+      "version": 1,
+      "title": "นิติศาสตร์เบื้องต้น",
+      "subject": "กฎหมายแพ่ง",
+      "questions": 10,
+      "file": "packs/law-basics-v1.pack",
+      "bytes": 6658,
+      "sha256": "867f1575a7cf208210a1a6d8db5170d8251917212f6bc88fcd2a09248c8353b8"
+    }
+  ]
+}
