@@ -50,6 +50,16 @@
       "file": "packs/cyber-act-5-v1.pack",
       "bytes": 49756,
       "sha256": "0b47b56567fc00e7f3a4938cda46ccd4e9c5910f4ded95c031a7f6ec1ffd1797"
+    },
+    {
+      "packId": "cyber-act-6",
+      "version": 1,
+      "title": "พ.ร.บ.ไซเบอร์ ระดับยาก",
+      "subject": "พ.ร.บ.ไซเบอร์",
+      "questions": 25,
+      "file": "packs/cyber-act-6-v1.pack",
+      "bytes": 55062,
+      "sha256": "61211f9b6a0eee8f6ee9843f154feb4b40a99fcae3511895d07101b72e697b7e"
     }
   ]
 }
