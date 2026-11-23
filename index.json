@@ -3,23 +3,23 @@
   "packs": [
     {
       "packId": "cyber-act-1",
-      "version": 1,
+      "version": 2,
       "title": "พ.ร.บ.ไซเบอร์ แบบทดสอบ 1",
       "subject": "พ.ร.บ.ไซเบอร์",
       "questions": 25,
-      "file": "packs/cyber-act-1-v1.pack",
-      "bytes": 59376,
-      "sha256": "b9eb9eddea5b1ca0b85036379411f7955a0e47ce316bd0164a887e6e167f90b3"
+      "file": "packs/cyber-act-1-v2.pack",
+      "bytes": 60326,
+      "sha256": "4b3b212317ec32c76558eaa786072965e19667e92f9eec016daf1997c7307178"
     },
     {
       "packId": "cyber-act-2",
-      "version": 1,
+      "version": 2,
       "title": "พ.ร.บ.ไซเบอร์ แบบทดสอบ 2",
       "subject": "พ.ร.บ.ไซเบอร์",
       "questions": 30,
-      "file": "packs/cyber-act-2-v1.pack",
-      "bytes": 45865,
-      "sha256": "484459ffd8bcfcaaef6e3d220c24b302cb206c93cff55998eb0256ad55462d56"
+      "file": "packs/cyber-act-2-v2.pack",
+      "bytes": 47019,
+      "sha256": "72035e60c72ef188a43f1dd967400225d182a36c63084b618369cdd0bf9ca1ef"
     }
   ]
 }
