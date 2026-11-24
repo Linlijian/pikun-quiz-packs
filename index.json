@@ -20,6 +20,16 @@
       "file": "packs/cyber-act-v1.pack",
       "bytes": 333139,
       "sha256": "7fd466c48db82b7305e52fba8abd09e0b0f04cd77e77237673e2d0ca1cc3a67b"
+    },
+    {
+      "packId": "pdpa-2",
+      "version": 1,
+      "title": "PDPA ระดับยาก",
+      "subject": "PDPA",
+      "questions": 147,
+      "file": "packs/pdpa-2-v1.pack",
+      "bytes": 321907,
+      "sha256": "9d8e63ee515dd8d05b78abcdf568711391cc6c17d01b512ebca6eb4a37de064b"
     }
   ]
 }
