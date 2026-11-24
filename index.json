@@ -70,6 +70,16 @@
       "file": "packs/cyber-act-7-v1.pack",
       "bytes": 54370,
       "sha256": "26d9abd6277ddc296cd2a5f99c57990d8f04ee6b00091672e9dadfedb78746ef"
+    },
+    {
+      "packId": "pdpa-1",
+      "version": 1,
+      "title": "PDPA",
+      "subject": "PDPA",
+      "questions": 132,
+      "file": "packs/pdpa-1-v1.pack",
+      "bytes": 256778,
+      "sha256": "2aad3864e0c8cc0a7cef9f1b906e976359c58f3cb2f6f687a48d70117a5f0229"
     }
   ]
 }
