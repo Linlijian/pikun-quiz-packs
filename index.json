@@ -80,6 +80,16 @@
       "file": "packs/pdpa-1-v1.pack",
       "bytes": 256778,
       "sha256": "2aad3864e0c8cc0a7cef9f1b906e976359c58f3cb2f6f687a48d70117a5f0229"
+    },
+    {
+      "packId": "cyber-act",
+      "version": 1,
+      "title": "พ.ร.บ.ไซเบอร์",
+      "subject": "พ.ร.บ.ไซเบอร์",
+      "questions": 172,
+      "file": "packs/cyber-act-v1.pack",
+      "bytes": 333139,
+      "sha256": "7fd466c48db82b7305e52fba8abd09e0b0f04cd77e77237673e2d0ca1cc3a67b"
     }
   ]
 }
