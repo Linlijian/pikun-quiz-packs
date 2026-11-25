@@ -70,6 +70,16 @@
       "file": "packs/ppo-1-v1.pack",
       "bytes": 99634,
       "sha256": "ddfe21a894a10b7be9711dcdd47eb4eefe75ca49a82ed0250de2b2df6d1e66e1"
+    },
+    {
+      "packId": "ppo-2",
+      "version": 1,
+      "title": "พระราชบัญญัติองค์กรอัยการและพนักงานอัยการ พ.ศ. ๒๕๕๓ ระดับยาก",
+      "subject": "พ.ร.บ.องค์กรอัยการ (PPO)",
+      "questions": 61,
+      "file": "packs/ppo-2-v1.pack",
+      "bytes": 131095,
+      "sha256": "5359ad20661367b12103e96efd88735e7d19d0634b0fde0e6435686564e41308"
     }
   ]
 }
