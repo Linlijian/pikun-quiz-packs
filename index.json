@@ -50,6 +50,16 @@
       "file": "packs/ago-1-v1.pack",
       "bytes": 519333,
       "sha256": "597a36753e11668848370c9717d6125a049c29f00f0e76a909a675a2b6bdaf16"
+    },
+    {
+      "packId": "ago-2",
+      "version": 1,
+      "title": "พระราชบัญญัติระเบียบข้าราชการฝ่ายอัยการ พ.ศ. ๒๕๕๓ ระดับยาก",
+      "subject": "อัยการ",
+      "questions": 219,
+      "file": "packs/ago-2-v1.pack",
+      "bytes": 435449,
+      "sha256": "cb9b11a5fa3854a433adbf654de8fdbfb7fae0ff1b285fcc78008333ea0734b8"
     }
   ]
 }
