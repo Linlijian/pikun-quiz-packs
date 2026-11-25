@@ -30,6 +30,16 @@
       "file": "packs/pdpa-2-v1.pack",
       "bytes": 321907,
       "sha256": "9d8e63ee515dd8d05b78abcdf568711391cc6c17d01b512ebca6eb4a37de064b"
+    },
+    {
+      "packId": "pdpa-3",
+      "version": 1,
+      "title": "PDPA โจทย์ตามสถานการณ์",
+      "subject": "PDPA",
+      "questions": 60,
+      "file": "packs/pdpa-3-v1.pack",
+      "bytes": 159266,
+      "sha256": "fc971aa87c7262f8e96846efb4f19272ed99e8ff16eabfecefc4c3d63f39b280"
     }
   ]
 }
