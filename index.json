@@ -90,6 +90,16 @@
       "file": "packs/proc-1-v1.pack",
       "bytes": 416311,
       "sha256": "0f1596c30dcbca704b58901c504b915a094398ea2bad37446bd39aef653e13d8"
+    },
+    {
+      "packId": "proc-2",
+      "version": 1,
+      "title": "ระเบียบกระทรวงการคลังว่าด้วยการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. ๒๕๖๐ ระดับยาก",
+      "subject": "ระเบียบพัสดุภาครัฐ ๒๕๖๐",
+      "questions": 204,
+      "file": "packs/proc-2-v1.pack",
+      "bytes": 459296,
+      "sha256": "f28424b60fdb0c67bf2660f8ab8a016dd95e3d6ca6bf8639f7b98dd20463d39b"
     }
   ]
 }
