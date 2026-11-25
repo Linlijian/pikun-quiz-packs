@@ -40,6 +40,16 @@
       "file": "packs/pdpa-3-v1.pack",
       "bytes": 159266,
       "sha256": "fc971aa87c7262f8e96846efb4f19272ed99e8ff16eabfecefc4c3d63f39b280"
+    },
+    {
+      "packId": "ago-1",
+      "version": 1,
+      "title": "พระราชบัญญัติระเบียบข้าราชการฝ่ายอัยการ พ.ศ. ๒๕๕๓",
+      "subject": "อัยการ",
+      "questions": 320,
+      "file": "packs/ago-1-v1.pack",
+      "bytes": 519333,
+      "sha256": "597a36753e11668848370c9717d6125a049c29f00f0e76a909a675a2b6bdaf16"
     }
   ]
 }
