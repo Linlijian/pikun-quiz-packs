@@ -110,6 +110,16 @@
       "file": "packs/saraban-1-v1.pack",
       "bytes": 238935,
       "sha256": "e3b89862e2cca4e3929944066f3fc5f6bfee2aa0b4371d47aba71a8ee84bf32f"
+    },
+    {
+      "packId": "saraban-2",
+      "version": 1,
+      "title": "ระเบียบสำนักนายกรัฐมนตรี ว่าด้วยงานสารบรรณ พ.ศ. ๒๕๒๖ ระดับยาก",
+      "subject": "ระเบียบงานสารบรรณ ๒๕๒๖",
+      "questions": 129,
+      "file": "packs/saraban-2-v1.pack",
+      "bytes": 259213,
+      "sha256": "f9ff3aea78872681f72c1a837f9bff537db6d5711e1fc9fb9f2bf1aa6756a565"
     }
   ]
 }
